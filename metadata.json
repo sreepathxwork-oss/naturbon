@@ -1,0 +1,6 @@
+{
+  "name": "Naturbon",
+  "description": "A cinematic, immersive nature exploration experience featuring 3D transitions and interactive environmental storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
